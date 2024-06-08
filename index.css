@@ -38,3 +38,13 @@ input{
     padding: 10px;
     border-radius: 10px;
 }
+#enviar{
+    margin-top: 2%;
+    border-radius: 10px;
+    width: fit-content;
+    background-color: rgb(211, 125, 64);
+    color: white;
+    font-size: 20px;
+    border: 1px white solid;
+
+}
